@@ -1,0 +1,85 @@
+======================================================================
+RESTAURANT RATINGS ANALYSIS - SUMMARY REPORT
+======================================================================
+
+Dataset: Dataset_.csv
+Total Restaurants Analyzed: 9,551
+
+======================================================================
+RATING STATISTICS
+======================================================================
+
+Average Rating:          2.67/5.0
+Median Rating:           3.20/5.0
+Standard Deviation:      1.52
+Minimum Rating:          0.0
+Maximum Rating:          4.9
+
+======================================================================
+RATING RANGE DISTRIBUTION
+======================================================================
+
+Range                  Count          Percentage  
+----------------------------------------------------------------------
+0-1 (Poor)             2,148          22.49      %
+1-2 (Below Avg)        10             0.10       %
+2-3 (Average)          1,891          19.80      %
+3-4 (Good)             4,388          45.94      %
+4-5 (Excellent)        1,114          11.66      %
+
+======================================================================
+MOST COMMON RATING RANGE
+======================================================================
+
+Range:             3-4 (Good)
+Restaurant Count:  4,388
+Percentage:        45.94%
+
+======================================================================
+VOTING STATISTICS
+======================================================================
+
+Average Votes per Restaurant:  156.91
+Median Votes:                  31
+Standard Deviation:            430.17
+Minimum Votes:                 0
+Maximum Votes:                 10,934
+Total Votes (All):             1,498,645
+
+======================================================================
+VOTE DISTRIBUTION
+======================================================================
+
+0-10            votes:  3,223 restaurants ( 33.75%)
+11-50           votes:  2,354 restaurants ( 24.65%)
+51-100          votes:  1,169 restaurants ( 12.24%)
+101-500         votes:  2,100 restaurants ( 21.99%)
+500+            votes:    705 restaurants (  7.38%)
+
+======================================================================
+CORRELATION ANALYSIS
+======================================================================
+
+Correlation (Rating vs Votes):  0.314
+Interpretation:                 Moderate positive correlation
+
+======================================================================
+KEY INSIGHTS
+======================================================================
+
+1. RATING DISTRIBUTION:
+   • The most common rating range is 3-4 (Good)
+   • 45.9% of restaurants fall in this range
+   • Average rating (2.67) is above mid-point (2.5)
+
+2. VOTING PATTERNS:
+   • Average restaurant receives 157 votes
+   • Median votes (31) is much lower than mean
+   • This indicates some restaurants receive very high votes
+
+3. RATING-VOTES RELATIONSHIP:
+   • Positive correlation suggests higher-rated restaurants
+     tend to receive more votes
+   • Popular restaurants (more votes) generally have better ratings
+
+======================================================================

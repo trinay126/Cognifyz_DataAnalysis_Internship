@@ -1,0 +1,63 @@
+======================================================================
+RESTAURANT ONLINE DELIVERY ANALYSIS - SUMMARY REPORT
+======================================================================
+
+Dataset: Dataset_.csv
+Total Restaurants Analyzed: 9,551
+
+======================================================================
+ONLINE DELIVERY AVAILABILITY
+======================================================================
+
+Status                         Count           Percentage     
+----------------------------------------------------------------------
+With Online Delivery           2,451           25.66         %
+Without Online Delivery        7,100           74.34         %
+
+======================================================================
+RATING COMPARISON
+======================================================================
+
+WITH ONLINE DELIVERY:
+----------------------------------------------------------------------
+  Restaurant Count:      2,451
+  Average Rating:        3.25/5.0
+  Median Rating:         3.40/5.0
+  Standard Deviation:    0.84
+
+WITHOUT ONLINE DELIVERY:
+----------------------------------------------------------------------
+  Restaurant Count:      7,100
+  Average Rating:        2.47/5.0
+  Median Rating:         3.10/5.0
+  Standard Deviation:    1.64
+
+======================================================================
+KEY FINDINGS
+======================================================================
+
+1. ONLINE DELIVERY PENETRATION:
+   • 25.66% of restaurants offer online delivery
+   • 74.34% do not offer online delivery
+
+2. RATING IMPACT:
+   • Restaurants WITH online delivery have HIGHER ratings
+   • Average difference: +0.78 points
+   • Improvement: 31.8%
+
+3. STATISTICAL INSIGHTS:
+   • Median rating WITH delivery: 3.40
+   • Median rating WITHOUT delivery: 3.10
+   • More consistent ratings: WITH delivery
+
+======================================================================
+BUSINESS IMPLICATIONS
+======================================================================
+
+• Strong positive correlation between online delivery and ratings
+• Offering online delivery may improve customer satisfaction
+• Consider expanding delivery services for better ratings
+
+• Low delivery penetration (25.7%) suggests market opportunity
+
+======================================================================

@@ -1,0 +1,121 @@
+======================================================================
+RESTAURANT GEOGRAPHIC ANALYSIS - SUMMARY REPORT
+======================================================================
+
+Dataset: Dataset_.csv
+Total Restaurants Analyzed: 9,052
+Total Cities: 141
+
+======================================================================
+COORDINATE RANGES
+======================================================================
+
+Latitude Range:   -41.3304° to 55.9770°
+Longitude Range:  -157.9485° to 174.8321°
+Center Point:     (27.2765°, 67.6423°)
+Geographic Span:  97.31° × 332.78°
+
+======================================================================
+TOP 10 CITIES BY RESTAURANT COUNT
+======================================================================
+
+Rank   City                 Count      Latitude     Longitude   
+----------------------------------------------------------------------
+1      New Delhi            5,240      28.6165      77.1900     
+2      Gurgaon              1,070      28.4669      77.0715     
+3      Noida                986        28.5674      77.3603     
+4      Faridabad            229        28.4333      77.3117     
+5      Ghaziabad            25         28.6375      77.3625     
+6      Ahmedabad            21         23.0369      72.5313     
+7      Bras�_lia            20         -15.8076     -47.9159    
+8      Rio de Janeiro       20         -22.9626     -43.2202    
+9      S��o Paulo           20         -23.5702     -46.6620    
+10     Albany               20         31.6030      -84.1866    
+
+======================================================================
+CLUSTERING ANALYSIS (5 CLUSTERS)
+======================================================================
+
+CLUSTER 1:
+  Restaurant Count:  8,316 (91.9%)
+  Center Point:      (27.7639°, 77.3267°)
+  Main City:         New Delhi
+  Average Rating:    2.62/5.0
+
+CLUSTER 2:
+  Restaurant Count:  438 (4.8%)
+  Center Point:      (35.7219°, -92.9746°)
+  Main City:         Albany
+  Average Rating:    4.00/5.0
+
+CLUSTER 3:
+  Restaurant Count:  63 (0.7%)
+  Center Point:      (-37.0889°, 163.2772°)
+  Main City:         Wellington City
+  Average Rating:    4.04/5.0
+
+CLUSTER 4:
+  Restaurant Count:  115 (1.3%)
+  Center Point:      (49.3559°, 8.2386°)
+  Main City:         Birmingham
+  Average Rating:    4.11/5.0
+
+CLUSTER 5:
+  Restaurant Count:  120 (1.3%)
+  Center Point:      (-24.6928°, -10.5138°)
+  Main City:         Bras�_lia
+  Average Rating:    3.99/5.0
+
+======================================================================
+DENSITY ANALYSIS
+======================================================================
+
+Overall Density:  0.28 restaurants per square degree
+Avg per City:     64.2 restaurants
+
+New Delhi (Largest Concentration):
+  Restaurants:  5,240
+  Coverage:     6.5214° × 43.3391°
+  % of Total:   57.9%
+
+======================================================================
+KEY PATTERNS & INSIGHTS
+======================================================================
+
+1. GEOGRAPHIC CONCENTRATION:
+   • Top 3 cities contain 80.6% of all restaurants
+   • Highest concentration: New Delhi (5,240 restaurants)
+   • This represents 57.9% of all locations
+
+2. CLUSTER CHARACTERISTICS:
+   • Largest cluster: Cluster 1 (8,316 restaurants)
+   • Clusters identified using K-Means algorithm
+   • Geographic spread varies significantly between clusters
+
+3. RATING PATTERNS BY LOCATION:
+   • Highest-rated cluster: Cluster 4 (4.11 avg)
+   • Rating variation across geographic areas suggests
+     location-based quality differences
+
+4. URBAN CONCENTRATION:
+   • 141 cities represented in dataset
+   • Strong urban concentration pattern observed
+   • Major metropolitan areas dominate distribution
+
+======================================================================
+BUSINESS RECOMMENDATIONS
+======================================================================
+
+• EXPANSION OPPORTUNITIES:
+  - 131 cities have fewer restaurants
+  - Consider expansion in underserved geographic areas
+
+• MARKET SATURATION:
+  - New Delhi shows high concentration
+  - May indicate market saturation in this area
+
+• GEOGRAPHIC STRATEGY:
+  - Focus on identified clusters for targeted marketing
+  - Different clusters may have different demographics
+
+======================================================================

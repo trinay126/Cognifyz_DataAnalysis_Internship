@@ -1,0 +1,136 @@
+======================================================================
+RESTAURANT CHAINS ANALYSIS - SUMMARY REPORT
+======================================================================
+
+Dataset: Dataset_.csv
+Total Restaurants Analyzed: 9,551
+Unique Restaurant Names: 7,446
+
+======================================================================
+CHAIN IDENTIFICATION
+======================================================================
+
+Restaurant Chains (>1 location):  734
+Single-Location Restaurants:       6,712
+Total Chain Locations:             2,839
+Chain Percentage:                  29.72%
+
+======================================================================
+TOP 20 RESTAURANT CHAINS
+======================================================================
+
+Rank   Chain Name                               Locations    Avg Rating   Avg Votes   
+----------------------------------------------------------------------
+1      Cafe Coffee Day                          83           2.42         29          
+2      Domino's Pizza                           79           2.74         84          
+3      Subway                                   63           2.91         97          
+4      Green Chick Chop                         51           2.67         19          
+5      McDonald's                               48           3.34         110         
+6      Keventers                                34           2.87         37          
+7      Pizza Hut                                30           3.32         165         
+8      Giani                                    29           2.69         29          
+9      Baskin Robbins                           28           1.86         15          
+10     Barbeque Nation                          26           4.35         1082        
+11     Dunkin' Donuts                           22           3.14         272         
+12     Giani's                                  22           2.78         52          
+13     Barista                                  22           3.07         37          
+14     Pind Balluchi                            20           2.63         279         
+15     Costa Coffee                             20           2.42         43          
+16     Sagar Ratna                              19           2.96         213         
+17     Twenty Four Seven                        19           2.15         15          
+18     Pizza Hut Delivery                       19           2.66         80          
+19     Wah Ji Wah                               19           2.34         54          
+20     KFC                                      18           2.74         130         
+
+======================================================================
+CHAIN VS SINGLE LOCATION COMPARISON
+======================================================================
+
+CHAIN RESTAURANTS:
+  Total Locations:   2,839
+  Average Rating:    2.79/5.0
+  Median Rating:     3.20/5.0
+  Average Votes:     180
+
+SINGLE LOCATIONS:
+  Total Restaurants: 6,712
+  Average Rating:    2.61/5.0
+  Median Rating:     3.20/5.0
+  Average Votes:     147
+
+DIFFERENCES:
+  Rating Difference: +0.18 points (chains rate HIGHER)
+  Votes Difference:  +33 votes (chains are MORE popular)
+
+======================================================================
+TOP 10 HIGHEST-RATED CHAINS
+======================================================================
+
+Rank   Chain Name                                    Rating     Locations 
+----------------------------------------------------------------------
+1      Barbeque Nation                               4.35       26        
+2      McDonald's                                    3.34       48        
+3      Pizza Hut                                     3.32       30        
+4      Dunkin' Donuts                                3.14       22        
+5      Barista                                       3.07       22        
+6      Sagar Ratna                                   2.96       19        
+7      Subway                                        2.91       63        
+8      Keventers                                     2.87       34        
+9      Giani's                                       2.78       22        
+10     KFC                                           2.74       18        
+
+======================================================================
+TOP 10 MOST POPULAR CHAINS (by votes)
+======================================================================
+
+Rank   Chain Name                                    Avg Votes    Locations 
+----------------------------------------------------------------------
+1      Barbeque Nation                               1082         26        
+2      Pind Balluchi                                 279          20        
+3      Dunkin' Donuts                                272          22        
+4      Sagar Ratna                                   213          19        
+5      Pizza Hut                                     165          30        
+6      KFC                                           130          18        
+7      McDonald's                                    110          48        
+8      Subway                                        97           63        
+9      Domino's Pizza                                84           79        
+10     Pizza Hut Delivery                            80           19        
+
+======================================================================
+KEY INSIGHTS
+======================================================================
+
+1. CHAIN PRESENCE:
+   • 734 restaurant chains identified in dataset
+   • Chains represent 29.7% of all locations
+   • Largest chain: Cafe Coffee Day (83 locations)
+
+2. PERFORMANCE COMPARISON:
+   • Chains significantly outperform single locations
+   • +0.18 points higher rating on average
+   • Brand consistency may improve customer satisfaction
+
+3. POPULARITY PATTERNS:
+   • Chains receive 33 more votes on average
+   • Brand recognition drives higher engagement
+   • Top chain (Cafe Coffee Day) is local
+
+4. RATING VS SCALE:
+   • High-rated chains maintain quality across locations
+   • Barbeque Nation achieves 4.35 rating
+   • Scale doesn't necessarily compromise quality
+
+======================================================================
+BUSINESS RECOMMENDATIONS
+======================================================================
+
+FOR CHAIN OPERATORS:
+  • Study top-rated chains' quality control methods
+  • Maintain consistency across all locations
+  • Brand recognition is a significant advantage
+
+FOR INDEPENDENT RESTAURANTS:
+  • Consider standardizing successful practices
+  • Build local brand recognition
+
+======================================================================

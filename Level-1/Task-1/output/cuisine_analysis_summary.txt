@@ -1,0 +1,16 @@
+======================================================================
+RESTAURANT CUISINE ANALYSIS - SUMMARY REPORT
+======================================================================
+
+Dataset: Dataset_.csv
+Total Restaurants Analyzed: 9,542
+Total Cuisine Entries: 19,710
+Unique Cuisines Found: 145
+
+TOP 3 CUISINES:
+----------------------------------------------------------------------
+ Rank      Cuisine  Restaurant Count  Percentage (%)
+    1 North Indian              3960           41.50
+    2      Chinese              2735           28.66
+    3    Fast Food              1986           20.81
+======================================================================

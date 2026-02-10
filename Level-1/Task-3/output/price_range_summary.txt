@@ -1,0 +1,47 @@
+======================================================================
+RESTAURANT PRICE RANGE DISTRIBUTION - SUMMARY REPORT
+======================================================================
+
+Dataset: Dataset_.csv
+Total Restaurants Analyzed: 9,551
+Price Range Categories: 4
+
+======================================================================
+PRICE RANGE DISTRIBUTION
+======================================================================
+
+Range    Category                     Count          Percentage  
+----------------------------------------------------------------------
+1        Budget (₹)                   4,444          46.53      %
+2        Mid-Range (₹₹)               3,113          32.59      %
+3        Expensive (₹₹₹)              1,408          14.74      %
+4        Very Expensive (₹₹₹₹)        586            6.14       %
+
+======================================================================
+KEY INSIGHTS
+======================================================================
+
+🏆 MOST COMMON PRICE RANGE:
+   Category: Budget (₹)
+   Count: 4,444 restaurants
+   Percentage: 46.53%
+
+📉 LEAST COMMON PRICE RANGE:
+   Category: Very Expensive (₹₹₹₹)
+   Count: 586 restaurants
+   Percentage: 6.14%
+
+📊 MARKET SEGMENTS:
+   Affordable (₹ + ₹₹):          7,557 (79.12%)
+   Premium (₹₹₹ + ₹₹₹₹):         1,994 (20.88%)
+
+======================================================================
+OBSERVATIONS
+======================================================================
+
+• Budget-friendly restaurants dominate the market.
+• Over 79% of restaurants are affordable (₹ or ₹₹).
+• Premium dining options (₹₹₹/₹₹₹₹) represent only 20.9% of the market.
+• Average price range: 1.80
+
+======================================================================

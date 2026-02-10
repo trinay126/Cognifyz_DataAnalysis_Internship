@@ -1,0 +1,71 @@
+======================================================================
+RESTAURANT CITY ANALYSIS - DETAILED SUMMARY REPORT
+======================================================================
+
+Dataset: Dataset_.csv
+Total Records Analyzed: 9,551
+Total Cities: 141
+
+======================================================================
+KEY FINDINGS
+======================================================================
+
+1. CITY WITH MOST RESTAURANTS:
+----------------------------------------------------------------------
+   City Name:           New Delhi
+   Restaurant Count:    5,473
+   Average Rating:      2.44/5.0
+   % of Total:          57.30%
+
+2. CITY WITH HIGHEST AVERAGE RATING:
+----------------------------------------------------------------------
+   City Name:           Inner City
+   Average Rating:      4.90/5.0
+   Restaurant Count:    2
+   % of Total:          0.02%
+
+======================================================================
+TOP 10 CITIES BY RESTAURANT COUNT
+======================================================================
+
+Rank   City                           Count        Avg Rating  
+----------------------------------------------------------------------
+1      New Delhi                      5,473        2.44        
+2      Gurgaon                        1,118        2.65        
+3      Noida                          1,080        2.04        
+4      Faridabad                      251          1.87        
+5      Ghaziabad                      25           2.85        
+6      Ahmedabad                      21           4.16        
+7      Amritsar                       21           3.69        
+8      Bhubaneshwar                   21           3.98        
+9      Guwahati                       21           4.19        
+10     Lucknow                        21           4.20        
+
+======================================================================
+TOP 10 CITIES BY AVERAGE RATING (Min. 10 Restaurants)
+======================================================================
+
+Rank   City                           Avg Rating   Count       
+----------------------------------------------------------------------
+1      London                         4.54         20          
+2      Orlando                        4.47         20          
+3      Tampa Bay                      4.41         20          
+4      Rest of Hawaii                 4.41         20          
+5      Bangalore                      4.38         20          
+6      Dubai                          4.37         20          
+7      Jakarta                        4.36         16          
+8      Hyderabad                      4.34         18          
+9      Chennai                        4.31         20          
+10     Ankara                         4.30         20          
+
+======================================================================
+OVERALL STATISTICS
+======================================================================
+
+Average Restaurants per City:    67.7
+Overall Average Rating:          2.67/5.0
+Median Restaurants per City:     20
+Max Restaurants in a City:       5,473
+Min Restaurants in a City:       1
+
+======================================================================

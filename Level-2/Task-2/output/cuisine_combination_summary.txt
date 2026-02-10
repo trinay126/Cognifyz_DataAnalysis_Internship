@@ -1,0 +1,108 @@
+======================================================================
+CUISINE COMBINATION ANALYSIS - SUMMARY REPORT
+======================================================================
+
+Dataset: Dataset_.csv
+Total Restaurants Analyzed: 9,542
+
+======================================================================
+RESTAURANT TYPES
+======================================================================
+
+Multi-Cuisine Restaurants:  6,148 (64.43%)
+Single-Cuisine Restaurants: 3,394 (35.57%)
+
+======================================================================
+COMBINATION STATISTICS
+======================================================================
+
+Total Unique Combinations:       1,249
+Average Cuisines per Restaurant: 2.07
+Max Cuisines in One Restaurant:  8
+
+======================================================================
+TOP 15 MOST COMMON CUISINE COMBINATIONS
+======================================================================
+
+Rank   Count    Avg Rating   Combination                                  
+----------------------------------------------------------------------
+1      616      2.33         Chinese, North Indian
+2      394      2.77         Mughlai, North Indian
+3      306      2.62         Chinese, Mughlai, North Indian
+4      181      2.38         Bakery, Desserts
+5      159      2.07         Chinese, Fast Food
+6      142      2.58         Fast Food, Pizza
+7      135      2.21         Chinese, North Indian, South Indian
+8      134      1.90         Mithai, Street Food
+9      120      2.40         Fast Food, North Indian
+10     117      2.41         Bakery, Fast Food
+11     109      2.90         Desserts, Ice Cream
+12     107      3.03         Chinese, Continental, North Indian
+13     102      2.64         Chinese, Fast Food, North Indian
+14     99       3.30         Burger, Fast Food
+15     69       3.32         Bakery, Desserts, Fast Food
+
+======================================================================
+RATING ANALYSIS
+======================================================================
+
+MULTI-CUISINE RESTAURANTS:
+  Average Rating:    2.91/5.0
+  Median Rating:     3.30/5.0
+  Restaurant Count:  6,148
+
+SINGLE-CUISINE RESTAURANTS:
+  Average Rating:    2.23/5.0
+  Median Rating:     3.00/5.0
+  Restaurant Count:  3,394
+
+RATING DIFFERENCE:
+  Multi-cuisine restaurants rate 0.67 points HIGHER
+  Percentage improvement: 30.2%
+
+======================================================================
+TOP 10 HIGHEST-RATED COMBINATIONS
+======================================================================
+
+Rank   Rating     Count    Combination                                  
+----------------------------------------------------------------------
+1      2.77       394      Mughlai, North Indian
+2      2.62       306      Chinese, Mughlai, North Indian
+3      2.58       142      Fast Food, Pizza
+4      2.41       117      Bakery, Fast Food
+5      2.40       120      Fast Food, North Indian
+6      2.38       181      Bakery, Desserts
+7      2.33       616      Chinese, North Indian
+8      2.21       135      Chinese, North Indian, South Indian
+9      2.07       159      Chinese, Fast Food
+10     1.90       134      Mithai, Street Food
+
+======================================================================
+KEY INSIGHTS
+======================================================================
+
+1. COMBINATION PREVALENCE:
+   • 64.4% of restaurants serve multiple cuisines
+   • Most popular combination: Chinese, North Indian
+   • This combination appears in 616 restaurants
+
+2. RATING IMPACT:
+   • Multi-cuisine restaurants significantly outperform
+   • +0.67 points higher rating on average
+   • Offering variety may improve customer satisfaction
+
+3. POPULAR PATTERNS:
+   • North Indian appears in 7/15 top combinations
+   • Chinese appears in 6/15 top combinations
+   • These cuisines are frequently paired with others
+
+======================================================================
+BUSINESS RECOMMENDATIONS
+======================================================================
+
+• Consider offering multiple cuisines to improve ratings
+• Popular combinations like 'Chinese, North Indian' work well
+• Study high-rated combinations for menu planning
+• Regional preferences strongly influence combinations
+
+======================================================================
