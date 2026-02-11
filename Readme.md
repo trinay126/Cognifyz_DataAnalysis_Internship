@@ -49,8 +49,6 @@ Y:\Main\
 ![Top Cuisines Analysis](Level-1/Task-1/output/top_cuisines_analysis.png)
 
 **Charts Included**:
-- Monthly sales trend line chart
-- Quarterly bar chart with labels
 - Category horizontal bar chart
 - Market share pie chart
 
