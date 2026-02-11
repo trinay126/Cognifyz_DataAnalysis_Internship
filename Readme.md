@@ -1,4 +1,4 @@
-# Congnifyz Internship - `Data Analysis Complete Project
+# Congnifyz Internship - Data Analysis Complete Project
 
 A comprehensive Python data analysis project analyzing restaurant data across multiple dimensions including cuisines, cities, pricing, delivery services, ratings, geographic distribution, and chains.
 
